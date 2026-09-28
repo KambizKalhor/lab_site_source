@@ -30,4 +30,4 @@ superuser: false
 user_groups:
 - Grad Students
 ---
-Kambiz (Kami) Kalhor is a Ph.D. researcher in the Steen Lab at the University of Southern California. His research investigates how microorganisms survive in the energy-limited deep subsurface, with a focus on protein stability as a potential adaptation for long-term survival. He combines bioinformatics, metagenomics, structural analysis, and experimental protein characterization to study microbial life near the energetic limits of life.
+Kambiz(Kami) Kalhor is a Ph.D. researcher in the Steen Lab at the University of Southern California. His research investigates how microorganisms survive in the energy-limited deep subsurface, with a focus on protein stability as a potential adaptation for long-term survival. He combines bioinformatics, metagenomics, structural analysis, and experimental protein characterization to study microbial life near the energetic limits of life.
